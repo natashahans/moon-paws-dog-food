@@ -136,7 +136,7 @@ a:hover {
     background-size: cover;
 }
 .section-products #product-5 .part-1::before {
-    background: url("Dog\ food/purina.png") no-repeat center;
+    background: url("purina.png") no-repeat center;
     background-size: cover;
 }
 .section-products #product-6 .part-1::before {
